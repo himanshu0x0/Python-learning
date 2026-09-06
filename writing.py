@@ -1,0 +1,5 @@
+f = open("sample.txt", "w")
+# f.write("\ni'm learing Python. and it's a most interesting language.")
+# f.open("sample.txt", "a")
+f.write("\n after leaning python. i'll move to learn flutter")
+f.close()
